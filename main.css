@@ -1,0 +1,353 @@
+.body{
+    background-color: rgb(255, 255, 255);
+}
+
+
+.animation{
+    background-image: url('img/Thor_bg1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: 145%;
+    background-position-y: 145%;
+    border-width: 1px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    width: 470px;
+    height: 315px;
+  margin-left:  30%;
+  cursor: pointer;
+}
+
+
+
+
+
+
+.animation1{
+    background-image: url('img/Thor_bg1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: 145%;
+    background-position-y: 96%;
+    border-width: 1px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    width: 470px;
+    height: 315px;
+  margin-left:  30%;
+  cursor: pointer;
+}
+
+
+
+.animation2{
+    background-image: url('img/Thor_bg1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: 145%;
+    background-position-y: 50%;
+    border-width: 1px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    width: 470px;
+    height: 315px;
+  margin-left:  30%;
+  cursor: pointer;
+}
+
+
+.animation3{
+    background-image: url('img/Thor_bg1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: 145%;
+    background-position-y: 1%;
+    border-width: 1px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    width: 470px;
+    height: 315px;
+  margin-left:  30%;
+  cursor: pointer;
+}
+
+
+
+
+#controls{
+    
+
+    background-image: url('img/Thor2.png');
+    background-repeat: no-repeat;
+   background-size: auto;
+   background-position-x: 46%;
+    background-position-y: 88%;
+
+
+
+    border-width: 1px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    width: 470px;
+    height: 190px;
+  margin-left:  30%;
+  margin-top: 1%;
+}
+
+#label1{
+    font-size: 120px;
+    color: rgb(90, 90, 90);
+    margin-top: 10px;
+    margin-left: 140px;
+   
+    
+
+}
+
+
+.label2{
+    font-size: 30px;
+    color:  rgb(90, 90, 90);
+   
+    margin-left: 170px;
+}
+
+.lab{
+    font-size: 30px;
+    color:  rgb(90, 90, 90);
+   text-decoration: none;
+   visibility: hidden;
+   width: 470px;
+   height: 315px;
+
+ margin-left:  42%;
+}
+
+.lv{
+    font-size: 30px;
+    color:  rgb(90, 90, 90);
+  text-decoration: none;
+   visibility: visible;
+   width: 470px;
+   height: 315px;
+ margin-left:  42%;
+}
+
+
+
+
+
+
+.label3{
+   
+    font-size: 17px;
+    color: rgb(90, 90, 90);
+  padding-top: 15px;
+    margin-left: 119px;
+}
+
+
+
+
+
+
+.hammer{
+    height: 100px;
+    margin-top: 50px;
+    margin-left: 153px;
+    cursor: pointer;
+    visibility:visible;
+   
+}
+
+
+
+.hammer2{
+    height: 100px;
+    margin-top: 50px;
+    margin-left: 153px;
+   visibility: hidden;
+   
+}
+
+@media screen and (min-width: 350px) and (max-width: 416px) {
+
+
+
+  .animation{
+    background-image: url('img/Thor_bg1.jpg');
+  
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: 145%;
+    background-position-y: 152%;
+    border-width: 1px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    width: 411px;
+    height: 315px;
+  margin-left:  0%;
+  cursor: pointer;
+}
+
+
+
+
+
+
+.animation1{
+    background-image: url('img/Thor_bg1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: 145%;
+    background-position-y: 102%;
+    border-width: 1px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    width: 412px;
+    height: 315px;
+  margin-left:  0%;
+  cursor: pointer;
+}
+
+
+
+.animation2{
+    background-image: url('img/Thor_bg1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: 145%;
+    background-position-y: 52%;
+    border-width: 1px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    width: 412px;
+    height: 315px;
+  margin-left:  0%;
+  cursor: pointer;
+}
+
+
+.animation3{
+    background-image: url('img/Thor_bg1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: 145%;
+    background-position-y: 2%;
+    border-width: 1px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    width: 412px;
+    height: 315px;
+  margin-left:  0%;
+  cursor: pointer;
+}
+
+
+
+
+
+
+
+
+#controls{
+    
+
+  background-image: url('img/Thor2.png');
+  background-repeat: no-repeat;
+ background-size: auto;
+ background-position-x: 14%;
+  background-position-y: 0%;
+
+
+
+  border-width: 1px;
+  border-color: rgb(255, 255, 255);
+  border-style: solid;
+  width: 470px;
+  height: 190px;
+margin-left:  0%;
+margin-top: 1%;
+}
+
+#label1{
+  font-size: 120px;
+  color: rgb(90, 90, 90);
+  margin-top: 10px;
+  margin-left: 53px;
+ 
+  
+
+}
+
+
+.label2{
+  font-size: 30px;
+  color:  rgb(90, 90, 90);
+ 
+  margin-left: 86px;
+}
+
+.lab{
+  font-size: 30px;
+  color:  rgb(90, 90, 90);
+ text-decoration: none;
+ visibility: hidden;
+ width: 470px;
+ height: 315px;
+
+margin-left:  24%;
+}
+
+.lv{
+  font-size: 30px;
+  color:  rgb(90, 90, 90);
+text-decoration: none;
+ visibility: visible;
+ width: 470px;
+ height: 315px;
+margin-left:  24%;
+}
+
+
+
+
+
+
+.label3{
+ 
+  font-size: 17px;
+  color: rgb(90, 90, 90);
+padding-top: 15px;
+  margin-left: 30px;
+}
+
+
+
+
+
+
+.hammer{
+  height: 100px;
+  margin-top: 0px;
+  margin-left: 70px;
+  cursor: pointer;
+  visibility:visible;
+ 
+}
+
+
+
+.hammer2{
+  height: 100px;
+  margin-top: 0px;
+  margin-left: 70px;
+ visibility: hidden;
+ 
+}
+
+
+
+
+
+}
